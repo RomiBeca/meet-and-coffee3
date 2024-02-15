@@ -1,0 +1,52 @@
+.oscuro {
+    background-color: black;
+}
+
+.oscuro ul {
+    margin: 0;
+    padding: 1rem;
+}
+
+.oscuro li {
+    display: inline-block;
+    margin-right: 57px;
+    vertical-align: middle;
+
+
+}
+
+.oscuro a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.oscuro a:hover {
+    color: #a4452c;
+}
+
+#post_1 {
+
+    text-align: center;
+
+
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+.t_post {
+
+    text-align: justify;
+    padding: 0px 418px;
+    font-size: 25px;
+
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font-size: 1rem;
+
+}

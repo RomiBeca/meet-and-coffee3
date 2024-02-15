@@ -1,0 +1,141 @@
+body {
+    font-family: 'open Sans' 'sant serif'
+}
+
+.oscuro {
+    background-color: black;
+}
+
+.oscuro ul {
+    margin: 0;
+    padding: 1rem;
+}
+
+.oscuro li {
+    display: inline-block;
+    margin-right: 57px;
+    vertical-align: middle;
+}
+
+.oscuro a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.oscuro a:hover {
+    color: #a4452c;
+}
+
+.hero-section {
+    background-image: url("../img/bg-hero.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0px 3px 6px black;
+    text-align: right;
+    padding: 6.25rem 3.125rem;
+    color: white;
+    /* font-size: 3.5rem; */
+}
+
+.hero-section h2 {
+    font-size: 2.5rem;
+}
+
+#ubicacion {
+    text-align: center;
+    padding: 3rem 3rem;
+    font-size: 3.5rem;
+}
+
+#ubicacion p {
+    font-size: 1.5rem;
+}
+
+#ubicacion img {
+    width: 500px;
+}
+
+.sweet-brown {
+    background-color: #a4452c;
+    padding: 3rem 0;
+}
+
+.centrado {
+    width: 70%;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin-inline: auto;
+}
+
+.charla-texto {
+    display: inline-block;
+    width: 45%;
+}
+
+.charla-texto h2 {
+    font-size: 45px;
+    margin: auto;
+}
+
+.charla-texto h3 {
+    font-size: 40px;
+    margin: auto;
+}
+
+.charla-texto h4 {
+    font-size: 30px;
+    margin-bottom: 0%;
+}
+
+.charla-texto h5 {
+    font-size: 20px;
+    margin-top: 0%;
+}
+
+.charla-texto p {
+    font-size: 25px;
+}
+
+.charla-speaker {
+    display: inline-block;
+    width: 45%;
+    text-align: right;
+}
+
+.charla-speaker img {
+    width: 312px;
+}
+
+#eventos {
+    padding: 4rem 2rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+.evento {
+    display: inline-block;
+    font-size: 1.5rem;
+}
+
+.evento img {
+    padding: 1rem;
+}
+
+.evento a {
+    text-decoration: none;
+    color: black;
+}
+
+.evento a:hover {
+    color: #a4452c;
+}
+
+footer {
+    text-align: center;
+    color: white
+}
